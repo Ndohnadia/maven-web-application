@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/people-work-release/</url>
+	      <url>http://localhost:8081/repository/demo-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/people-work-snapshot/</url>
+	      <url>http://localhost:8081/repository/demo-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
