@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://172.31.18.29:8081/repository/ebay-bts-releases/</url>
+	      <name> demo releases Nexus Repository</name>
+	      <url>http://localhost:8081/repository/demo/releases</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.18.29:8081/repository/ebay-bts-snapshot/</url>
+	      <name> paypal Snapshot Nexus Repository </name>
+	      <url> http://localhost:8081/repository/paypal/Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
